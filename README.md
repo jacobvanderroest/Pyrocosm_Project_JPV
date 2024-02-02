@@ -1,2 +1,3 @@
 The "Advanced_export_ADAP-KDB  JPV 20230127_raw" file contains the raw annotation data for the GC-MS data.
 The "JPV 127 20230127 CSV File_raw" file contains the raw peak height, peak area, peak retention time, and peak m/z value for all peaks detected across all samples for the GC-MS data.
+The "PCA_Plots_PERMANOVA" R Studio script features code for making the principal component analysis (PCA) scores plots that are in the manuscript. The input data for that file are the following files that are in this repository: "categories_all_peaks," "PCA - Normalized Samples and QCs,"categories_amino_acids," and "PCA_Amino_Acids_Normalized."
