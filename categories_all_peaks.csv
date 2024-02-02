@@ -1,0 +1,36 @@
+name,Factor 1,Factor 2
+JPV Day 0 B1_11.cdf area,Burn,Day 0
+JPV Day 0 B2_12.cdf area,Burn,Day 0
+JPV Day 0 B3_13.cdf area,Burn,Day 0
+JPV Day 0 UB1_14.cdf area,Unburn,Day 0
+JPV Day 0 UB2_15.cdf area,Unburn,Day 0
+JPV Day 0 UB3_16.cdf area,Unburn,Day 0
+JPV Day 3 B1_18.cdf area,Burn,Day 3
+JPV Day 3 B2_19.cdf area,Burn,Day 3
+JPV Day 3 B3_20.cdf area,Burn,Day 3
+JPV Day 3 UB1_21.cdf area,Unburn,Day 3
+JPV Day 3 UB2_22.cdf area,Unburn,Day 3
+JPV Day 3 UB3_25.cdf area,Unburn,Day 3
+JPV Day 7 B1_27.cdf area,Burn,Day 7
+JPV Day 7 B2_28.cdf area,Burn,Day 7
+JPV Day 7 B3_29.cdf area,Burn,Day 7
+JPV Day 7 UB1_30.cdf area,Unburn,Day 7
+JPV Day 7 UB2_31.cdf area,Unburn,Day 7
+JPV Day 7 UB3_32.cdf area,Unburn,Day 7
+JPV Day 14 B1_40.cdf area,Burn,Day 14
+JPV Day 14 B2_41.cdf area,Burn,Day 14
+JPV Day 14 B3_42.cdf area,Burn,Day 14
+JPV Day 14 UB1_43.cdf area,Unburn,Day 14
+JPV Day 14 UB2_45.cdf area,Unburn,Day 14
+JPV Day 14 UB3_46.cdf area,Unburn,Day 14
+JPV Day 28 B1_48.cdf area,Burn,Day 28
+JPV Day 28 B2_50.cdf area,Burn,Day 28
+JPV Day 28 B3_51.cdf area,Burn,Day 28
+JPV Day 28 UB1_52.cdf area,Unburn,Day 28
+JPV Day 28 UB2_53.cdf area,Unburn,Day 28
+JPV Day 28 UB3_54.cdf area,Unburn,Day 28
+JPV QC 1_10.cdf area,Quality Control,QC
+JPV QC3_26.cdf area,Quality Control,QC
+JPV QC4_33.cdf area,Quality Control,QC
+JPV QC5_47.cdf area,Quality Control,QC
+JPV QC6_55.cdf area,Quality Control,QC
